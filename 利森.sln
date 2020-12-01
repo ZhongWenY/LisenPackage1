@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "利森", "利森\利森.vdproj", "{F742ED51-6732-4658-8020-E9B4E7750C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F742ED51-6732-4658-8020-E9B4E7750C95}.Debug|Default.ActiveCfg = Debug
+		{F742ED51-6732-4658-8020-E9B4E7750C95}.Debug|Default.Build.0 = Debug
+		{F742ED51-6732-4658-8020-E9B4E7750C95}.Release|Default.ActiveCfg = Release
+		{F742ED51-6732-4658-8020-E9B4E7750C95}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1951CB84-777E-4ABE-A344-0370D3AEFE25}
+	EndGlobalSection
+EndGlobal
